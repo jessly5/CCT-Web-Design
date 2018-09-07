@@ -27,5 +27,6 @@ The content could be summarized as:
   - Adaptive and responsive websites (Bootstrap grid, HTML viewport and CSS for mobile, etc)
   
   
-  ## CCT460
-  ### Advanced Web Design (TBA)
+## CCT460
+### Advanced Web Design (TBA)
+Builds on the concepts from CCT360.
