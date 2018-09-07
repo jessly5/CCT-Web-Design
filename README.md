@@ -16,8 +16,7 @@ Specifically:
   - Wireframing
   - Website navigation terms
   
-[Click here to view my 260 assignments.](260)
-(Or just [Assignment 1](260/a1) or [Assignment 2](260/a2)).
+[Click here to view my 260 assignments.](260) (Or just [Assignment 1](260/a1) or [Assignment 2](260/a2)).
 
 ## CCT360
 ### Intermediate Web Design (May - June 2018)
@@ -29,8 +28,7 @@ The content could be summarized as:
   - Accesibility (such as WCAG)
   - Adaptive and responsive websites (Bootstrap grid, HTML viewport and CSS for mobile, etc)
     
-[Click here to view my 360 assignments.](360)
-(Or just [Assignment 1](360/a1) or [Assignment 2](360/a2)).
+[Click here to view my 360 assignments.](360) (Or just [Assignment 1](360/a1) or [Assignment 2](360/a2)).
   
 ## CCT460
 ### Advanced Web Design (TBA)
