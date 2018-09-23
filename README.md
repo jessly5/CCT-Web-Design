@@ -1,5 +1,5 @@
 # CCT Web Design
-Course assignments from the CCT web design courses, taken at Sheridan as part of the UTM joint program.
+Course assignments from the CCT web design courses taken at Sheridan as part of the UTM joint program.
 
 ### Table of Content
 1. [CCT260](#cct260)
@@ -11,7 +11,7 @@ Course assignments from the CCT web design courses, taken at Sheridan as part of
 This course is an introduction to HTML, CSS, and website design principles. Though the HTML and CSS taught were very bare bone and boring, the design principles were interesting to learn. 
 
 Specifically:
-  - Creation of personas (profiles created based on target audience research)
+  - Creation of personas (resarching the target audiences and creating their profiles)
   - Information architecture (website hierarchy, Dan Brown's *Eight Principles of IA*, Steve Krug's *Don't Make Me Think*)
   - Wireframing
   - Website navigation terms
