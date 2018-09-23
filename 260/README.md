@@ -1,9 +1,9 @@
 # CCT260
-Course assignments from CCT260 - Web Culture and Design, taken in January - April 2018.
+Course assignments from CCT260 Web Culture and Design, taken in January - April 2018.
 
 ### Table of Content
-1. [Assignment 1](assignment 1)
-2. [Assignment 2](#assignment 1)
+1. [Assignment 1](#assignment1)
+2. [Assignment 2](#assignment2)
 
 ## Assignment 1
 The goal of this assignment was to reconstruct a Wikipedia page based on who we thought would visit the page.
