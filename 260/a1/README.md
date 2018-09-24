@@ -2,7 +2,7 @@
 
 My work is all documented in the [documentation pdf](cct260-a1-documentation.pdf).
 
-In it, you will see:
+In the documentation file, you will find the following:
 1. Content Study
 2. Personas
 3. New IA
