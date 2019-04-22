@@ -39,6 +39,6 @@ In this course, we learned about:
   - Introduction to APIs (specifically the use of Google Map API)
   - Beginner JavaScript
   
-In my opinion, the foundatoinal web analytics content was the most interesting part of the course. I also found that this course didn't really build up from the previous x60 courses. Instead, it assumes that we will apply our HTML/CSS and UI/UX knowledge gained from them into the assignments. Additionally, this course was much easier than 260/360 due to the use of WordPress instead of handling HTML/CSS directly. 
+In my opinion, the foundational web analytics content was the most interesting part of the course. I also found that this course didn't really build up from the previous x60 courses. Instead, it assumes that we will apply our HTML/CSS and UI/UX knowledge gained from them into the assignments. Additionally, this course was much easier than 260/360 due to the use of WordPress instead of handling HTML/CSS directly. 
 
 [Click here to view my 460 assignments.](460) (Or just [Assignment 1](460/a1) or [Assignment 2](460/a2)).
