@@ -11,6 +11,6 @@ The goal of this assignment was to build a business website using WordPress by c
 Click here to view [Assignment 1](a1)
 
 ## Assignment 2
-This assignment required us to develop a web analytics plan for our business website, as well as a plan to integrate an API of our choosing to add more value to the site. Because of class cancellations due to extreme weather we missed 2/12 of our lectures, and had to catch up to the other sections that were not affected. Originally this assignment expected more than one API integration, but it was reduced to 1 due to time contraints. For the same reason as the API reduction, we were not expected to fully integrate our API into the WordPress site.
+This assignment required us to develop a web analytics plan for our business website, as well as a plan to integrate an API of our choosing to add more value to the site. Because of class cancellations due to extreme weather we missed 2/12 of our lectures, and had to catch up to the other sections that were not affected. Originally this assignment expected more than one API integration, but it was reduced to 1 due to time contraints. For the same reason as the API reduction, we were not expected to integrate our API into the WordPress site.
 
 Click here to view [Assignment 2](a2)
